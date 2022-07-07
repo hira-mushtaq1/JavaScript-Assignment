@@ -1,0 +1,1 @@
+alert("I'm placed before html page in body");
